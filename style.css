@@ -1,0 +1,17 @@
+.title{
+    color: #00c271;
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+}
+
+body{
+    padding: 15px 160px;
+}
+
+input{
+    padding: 11px;
+}
+
+fieldset{
+    margin-bottom: 20px;
+}
